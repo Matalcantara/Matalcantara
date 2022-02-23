@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Matalcantara
 - 👀 I’m interested in Coding, soccer and tecnology itself
-- 🌱 I’m currently learning and mastering Python, after that i'll probably start learning Javascript
+- 🌱 I’m currently learning and mastering Javascript, after that i'll probably start learning Flutter
 - 💞️ I’m looking to collaborate with yous guys in the proccess of coding and make some friendships
 - 📫 How to reach me: email: mateus.dir13@gmail.com; instagram:_mateusol
 
